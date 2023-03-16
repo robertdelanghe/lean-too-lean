@@ -10,12 +10,4 @@ title: About
 
 [lean-to](https://github.com/robertdelanghe/lean-to) is primarily a dev-container wrapper around the standard [vitesse](https://github.com/antfu/vitesse) starter template made by [@antfu](https://github.com/antfu) for mocking apps swiftly. With **file-based routing**, **components auto importing**, **markdown support**, I18n, PWA and uses **UnoCSS** for styling and icons.
 
-```js
-// syntax highlighting example
-function vitesse() {
-  const foo = 'bar'
-  console.log(foo)
-}
-```
-
 Check out the [GitHub repo](https://github.com/robertdelanghe/lean-to) for more details.
