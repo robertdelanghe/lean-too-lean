@@ -3,9 +3,12 @@ button:
   back: Indietro
   go: Vai
   home: Home
+  lists:
+    books: ''
   toggle_dark: Attiva/disattiva modalità scura
   toggle_langs: Cambia lingua
 intro:
+  aka: ''
   desc: Modello per una Applicazione Vite
   dynamic-route: Demo di rotta dinamica
   hi: Ciao, {name}!

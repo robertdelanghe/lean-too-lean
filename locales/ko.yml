@@ -3,9 +3,12 @@ button:
   back: 뒤로가기
   go: 이동
   home: 홈
+  lists:
+    books: ''
   toggle_dark: 다크모드 토글
   toggle_langs: 언어 변경
 intro:
+  aka: ''
   desc: Vite 애플리케이션 템플릿
   dynamic-route: 다이나믹 라우트 데모
   hi: 안녕, {name}!

@@ -3,6 +3,8 @@ button:
   back: Back
   go: GO
   home: Home
+  lists:
+    books: Books
   toggle_dark: Toggle dark mode
   toggle_langs: Change languages
 intro:

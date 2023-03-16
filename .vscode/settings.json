@@ -18,6 +18,7 @@
   },
   "i18n-ally.keystyle": "nested",
   "i18n-ally.localesPaths": "locales",
+  "i18n-ally.keepFulfilled": true,
   "i18n-ally.sortKeys": true,
   "i18n-ally.sourceLanguage": "en",
   "prettier.enable": false,
@@ -37,5 +38,11 @@
     "**/.trunk/**"
   ],
   "vitest.showFailMessages": false,
-  "volar.doctor.checkVueTsc": true
+  "volar.doctor.checkVueTsc": true,
+  "i18n-ally.extract.ignoredByFiles": {
+    "src/pages/index.vue": [
+      "\nmeta:\n  layout: home\n",
+      "\nmeta:\n  layout: home\n"
+    ]
+  }
 }

@@ -3,9 +3,12 @@ button:
   back: Quay lại
   go: Đi
   home: Khởi đầu
+  lists:
+    books: ''
   toggle_dark: Chuyển đổi chế độ tối
   toggle_langs: Thay đổi ngôn ngữ
 intro:
+  aka: ''
   desc: Ý kiến cá nhân Vite Template để bắt đầu
   dynamic-route: Bản giới thiệu về dynamic route
   hi: Hi, {name}!

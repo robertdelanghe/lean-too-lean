@@ -3,9 +3,12 @@ button:
   back: Назад
   go: Перейти
   home: Главная
+  lists:
+    books: ''
   toggle_dark: Включить темный режим
   toggle_langs: Сменить язык
 intro:
+  aka: ''
   desc: Самостоятельный начальный шаблон Vite
   dynamic-route: Демо динамического маршрута
   hi: Привет, {name}!
