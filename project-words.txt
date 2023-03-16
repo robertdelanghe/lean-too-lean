@@ -35,6 +35,7 @@ pinia
 Pinia
 pnpm
 potrace
+rubenverg
 runtimes
 Selinger
 shamscorner
