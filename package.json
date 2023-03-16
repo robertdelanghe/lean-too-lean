@@ -16,6 +16,7 @@
     "up": "taze major -I"
   },
   "dependencies": {
+    "@iconify-json/game-icons": "^1.1.2",
     "@unocss/reset": "^0.50.3",
     "@vueuse/core": "^9.13.0",
     "@vueuse/head": "^1.1.15",
