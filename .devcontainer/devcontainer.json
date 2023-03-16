@@ -7,22 +7,22 @@
   "customizations": {
     "vscode": {
       "extensions": [
-		"antfu.goto-alias",
-		"antfu.iconify",
-		"antfu.unocss",
-		"antfu.vite",
-		"csstools.postcss",
-		"dbaeumer.vscode-eslint",
-		"lokalise.i18n-ally",
-		"streetsidesoftware.code-spell-checker",
-		"vue.volar",
-		"ZixuanChen.vitest-explorer",
-		"Vue.volar",
-		"PKief.material-icon-theme",
-		"JackValley.astral-green",
-		"rubenverg.bootstrap-product-icons",
-		"ms-vsliveshare.vsliveshare"
-	],
+        "antfu.goto-alias",
+        "antfu.iconify",
+        "antfu.unocss",
+        "antfu.vite",
+        "csstools.postcss",
+        "dbaeumer.vscode-eslint",
+        "lokalise.i18n-ally",
+        "streetsidesoftware.code-spell-checker",
+        "vue.volar",
+        "ZixuanChen.vitest-explorer",
+        "Vue.volar",
+        "PKief.material-icon-theme",
+        "JackValley.astral-green",
+        "rubenverg.bootstrap-product-icons",
+        "ms-vsliveshare.vsliveshare"
+      ],
       "settings": {
         "cSpell.customDictionaries": {
           "custom": true, // Enable the `custom` dictionary
@@ -49,7 +49,7 @@
         "vite.autoStart": false,
         "vite.buildCommand": "pnpm build",
         "vite.devCommand": "pnpm dev",
-        "vite.port": 4000,
+        "vite.port": 3333,
         "vite.showTerminal": true,
         "vitest.commandLine": "npx vitest",
         "vitest.debugExclude": [
@@ -79,16 +79,14 @@
     "ghcr.io/withfig/features/fig:1": {}
   },
   "forwardPorts": [
-    4000
+    3333
   ],
   "name": "lean-to",
   "portsAttributes": {
-    "4000": {
-        "visibility": "public",
-        "label": "Vite",
-        "onAutoForward": "openPreview"
-      }
-
+    "3333": {
+      "label": "Vite",
+      "onAutoForward": "openPreview",
+      "visibility": "public"
     }
   },
   "postCreateCommand": "pnpm install"
