@@ -7,7 +7,7 @@ button:
   toggle_langs: Change languages
 intro:
   aka: Also known as
-  desc: Cozy Place for Decs to Build Vue 3 Projects
+  desc: Cozy Place for Devs to Build Vue 3 Projects
   dynamic-route: Demo of dynamic route
   hi: Hi, {name}!
   whats-your-name: What's your name?

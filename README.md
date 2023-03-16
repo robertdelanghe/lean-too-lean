@@ -1,5 +1,5 @@
 <p align='center'>
-  <img src='https://github.com/robertdelanghe/lean-to/raw/346eab0c58b9db9489c5a1fd43f52214b81dcb89/.github/images/lean-to.jpeg' alt='lean-to' width='200'/>
+  <img src='https://github.com/robertdelanghe/lean-to/raw/main/.github/images/lean-to.jpeg' alt='lean-to' width='200'/>
 </p>
 
 <p align='center'>
