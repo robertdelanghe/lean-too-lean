@@ -1,6 +1,7 @@
 antfu
 Attributify
 buildx
+codespaces
 composables
 corepack
 csstools

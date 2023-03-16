@@ -7,21 +7,22 @@
   "customizations": {
     "vscode": {
       "extensions": [
-        "antfu.goto-alias",
-        "antfu.iconify",
-        "antfu.unocss",
-        "antfu.vite",
-        "csstools.postcss",
-        "dbaeumer.vscode-eslint",
-        "lokalise.i18n-ally",
-        "streetsidesoftware.code-spell-checker",
-        "vue.volar",
-        "ZixuanChen.vitest-explorer",
-        "Vue.volar",
-        "PKief.material-icon-theme",
-        "JackValley.astral-green",
-        "rubenverg.bootstrap-product-icons"
-      ],
+		"antfu.goto-alias",
+		"antfu.iconify",
+		"antfu.unocss",
+		"antfu.vite",
+		"csstools.postcss",
+		"dbaeumer.vscode-eslint",
+		"lokalise.i18n-ally",
+		"streetsidesoftware.code-spell-checker",
+		"vue.volar",
+		"ZixuanChen.vitest-explorer",
+		"Vue.volar",
+		"PKief.material-icon-theme",
+		"JackValley.astral-green",
+		"rubenverg.bootstrap-product-icons",
+		"ms-vsliveshare.vsliveshare"
+	],
       "settings": {
         "cSpell.customDictionaries": {
           "custom": true, // Enable the `custom` dictionary
@@ -77,6 +78,14 @@
     "ghcr.io/trunk-io/devcontainer-feature/trunk:1": {},
     "ghcr.io/withfig/features/fig:1": {}
   },
+  "forwardPorts": [
+    3333
+  ],
   "name": "lean-to",
+  "portsAttributes": {
+    "3000": {
+      "visibility": "public"
+    }
+  },
   "postCreateCommand": "pnpm install"
 }
