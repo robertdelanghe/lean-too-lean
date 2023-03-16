@@ -131,6 +131,7 @@ As this template is strongly opinionated, the following provides a curated list 
 
 ###### Official
 
+- [vitesse](https://github.com/antfu/vitesse) - The Classic
 - [vitesse-lite](https://github.com/antfu/vitesse-lite) - Lightweight version of Vitesse
 - [vitesse-nuxt3](https://github.com/antfu/vitesse-nuxt3) - Vitesse for Nuxt 3
 - [vitesse-nuxt-bridge](https://github.com/antfu/vitesse-nuxt-bridge) - Vitesse for Nuxt 2 with Bridge
