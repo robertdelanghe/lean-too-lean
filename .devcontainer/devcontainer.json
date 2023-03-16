@@ -25,7 +25,7 @@
       "settings": {
         "cSpell.customDictionaries": {
           "custom": true, // Enable the `custom` dictionary
-          "internal-terms": false, // Disable the `internal-terms` dictionary 
+          "internal-terms": false, // Disable the `internal-terms` dictionary
           "project-words": {
             "addWords": true,
             "description": "Words used in this project",
@@ -78,5 +78,5 @@
     "ghcr.io/withfig/features/fig:1": {}
   },
   "name": "lean-to",
-  "postCreateCommand": "pnpm install --frozen-lockfile"
+  "postCreateCommand": "pnpm install"
 }
