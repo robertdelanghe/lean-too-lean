@@ -12,6 +12,16 @@ Cozy Place for Devs to Build Vue 3 Projects
 
 - 🏕️ [Codespaces](https://docs.github.com/en/codespaces/overview)
 
+### Setup
+*only need a browser with internet*
+
+#### If You Want Local VsCode
+- 🕹️ [Codespaces Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces)
+
+#### If You Want A Local Container
+- 🐳 [DevContainers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
+- 🐋 [Docker](https://www.docker.com/products/docker-desktop/)
+
 ### Notable Extensions
 
 - 🪅 [i18n Ally](https://github.com/lokalise/i18n-ally/wiki)
