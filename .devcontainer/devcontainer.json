@@ -78,6 +78,5 @@
     "ghcr.io/withfig/features/fig:1": {}
   },
   "name": "lean-to",
-  "forwardPorts": [3333],
   "postCreateCommand": "pnpm install --frozen-lockfile"
 }

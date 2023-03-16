@@ -8,12 +8,6 @@ Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
 
 <br>
 
-<p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
-</p>
-
-<br>
-
 ## Features
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [esbuild](https://github.com/evanw/esbuild) - born with fastness
