@@ -49,7 +49,7 @@
         "vite.autoStart": false,
         "vite.buildCommand": "pnpm build",
         "vite.devCommand": "pnpm dev",
-        "vite.port": 3333,
+        "vite.port": 4000,
         "vite.showTerminal": true,
         "vitest.commandLine": "npx vitest",
         "vitest.debugExclude": [
@@ -79,12 +79,16 @@
     "ghcr.io/withfig/features/fig:1": {}
   },
   "forwardPorts": [
-    3333
+    4000
   ],
   "name": "lean-to",
   "portsAttributes": {
-    "3000": {
-      "visibility": "public"
+    "4000": {
+        "visibility": "public",
+        "label": "Vite",
+        "onAutoForward": "openPreview"
+      }
+
     }
   },
   "postCreateCommand": "pnpm install"
