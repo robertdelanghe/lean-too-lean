@@ -1,9 +1,9 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/154486817-f86b8f20-5463-4122-b6e9-930622e757f2.png' alt='lean-to : an opinionated fork' width='600'/>
+  <img src='https://github.com/robertdelanghe/lean-to/raw/346eab0c58b9db9489c5a1fd43f52214b81dcb89/.github/images/lean-to.jpeg' alt='lean-to' width='200'/>
 </p>
 
 <p align='center'>
-Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
+cozy little dev shelter for your Vue 3 projects
 </p>
 
 <br>
