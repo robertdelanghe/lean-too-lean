@@ -6,6 +6,7 @@ corepack
 csstools
 dbaeumer
 degit
+DeLanghe
 demi
 Destructurable
 devcontainer
@@ -19,6 +20,7 @@ Iconify
 intlify
 keystyle
 Klogan
+Langhe
 lokalise
 markdownlint
 nekobc
