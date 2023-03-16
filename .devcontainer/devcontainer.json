@@ -19,7 +19,10 @@
 		"streetsidesoftware.code-spell-checker",
 		"vue.volar",
 		"ZixuanChen.vitest-explorer",
-		"Vue.volar"
+		"Vue.volar",
+		"PKief.material-icon-theme",
+		"JackValley.astral-green",
+		"rubenverg.bootstrap-product-icons"
 	],
       "settings": {
         "cSpell.customDictionaries": {
