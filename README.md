@@ -3,11 +3,22 @@
 </p>
 
 <p align='center'>
-cozy little dev shelter for your Vue 3 projects
+Cozy Place for Devs to Build Vue 3 Projects
 </p>
 
 <br>
 
+## The Shelter
+
+- 🏕️ [Codespaces](https://docs.github.com/en/codespaces/overview)
+
+### Notable Extensions
+
+- 🪅 [i18n Ally](https://github.com/lokalise/i18n-ally/wiki)
+- 🔬 [Vite Test Explorer](https://github.com/vitest-dev/vscode#readme)
+- 🧰 [Trunk](https://trunk.io)
+- 🍬 [Live Share](https://visualstudio.microsoft.com/services/live-share/)
+️
 ## Features
 
 - ⚡️ [Vue 3](https://github.com/vuejs/core), [Vite](https://github.com/vitejs/vite), [pnpm](https://pnpm.io/), [esbuild](https://github.com/evanw/esbuild) - born with fastness
