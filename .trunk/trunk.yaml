@@ -1,0 +1,20 @@
+version: 0.1
+cli:
+  version: 1.6.0
+plugins:
+  sources:
+    - id: trunk
+      ref: v0.0.12
+      uri: https://github.com/trunk-io/plugins
+lint:
+  definitions:
+    - name: cspell
+      affects_cache:
+        - project-words.txt
+  enabled:
+    # npx cspell-cli "." --words-only --unique --no-progress
+    - cspell@6.5.0
+    - eslint@8.35.0
+runtimes:
+  enabled:
+    - node@18.12.1
