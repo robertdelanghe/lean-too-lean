@@ -13,7 +13,9 @@ Cozy Place for Devs to Build Vue 3 Projects
 - 🏕️ [Codespaces](https://docs.github.com/en/codespaces/overview)
 
 ### Setup
-*only need a browser with internet*
+
+#### In Browser
+- 🏆 [You're All Set](https://random.dog)
 
 #### If You Want Local VsCode
 - 🕹️ [Codespaces Extension](https://marketplace.visualstudio.com/items?itemName=GitHub.codespaces)
