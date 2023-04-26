@@ -41,6 +41,7 @@ pnpm
 potrace
 rubenverg
 runtimes
+sdras
 Selinger
 shamscorner
 shiki
@@ -53,6 +54,7 @@ typecheck
 unocss
 Unocss
 unplugin
+usernamehw
 vitailse
 vite
 vitecamp

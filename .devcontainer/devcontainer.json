@@ -7,21 +7,40 @@
   "customizations": {
     "vscode": {
       "extensions": [
+        "amodio.tsl-problem-matcher",
+        "antfu.browse-lite",
         "antfu.goto-alias",
         "antfu.iconify",
+        "antfu.icons-carbon",
+        "antfu.slidev",
+        "antfu.theme-vitesse",
         "antfu.unocss",
         "antfu.vite",
+        "antfu.where-am-i",
         "csstools.postcss",
         "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "EditorConfig.EditorConfig",
+        "file-icons.file-icons",
+        "GitHub.codespaces",
+        "GitHub.copilot",
+        "GitHub.vscode-pull-request-github",
         "lokalise.i18n-ally",
+        "mpontus.tab-cycle",
+        "ms-vscode-remote.remote-containers",
+        "ms-vsliveshare.vsliveshare",
+        "naumovs.color-highlight",
+        "richie5um2.vscode-sort-json",
+        "sainnhe.gruvbox-material",
+        "sdras.vue-vscode-snippets",
         "streetsidesoftware.code-spell-checker",
+        "unional.vscode-sort-package-json",
+        "usernamehw.errorlens",
+        "voorjaar.windicss-intellisense",
         "vue.volar",
-        "ZixuanChen.vitest-explorer",
-        "Vue.volar",
-        "PKief.material-icon-theme",
-        "JackValley.astral-green",
-        "rubenverg.bootstrap-product-icons",
-        "ms-vsliveshare.vsliveshare"
+        "WakaTime.vscode-wakatime",
+        "ZixuanChen.vitest-explorer"
+        "znck.grammarly"
       ],
       "settings": {
         "cSpell.customDictionaries": {
