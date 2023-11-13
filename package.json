@@ -54,7 +54,7 @@
     "unocss": "^0.50.3",
     "unplugin-auto-import": "^0.15.0",
     "unplugin-vue-components": "^0.24.0",
-    "unplugin-vue-macros": "^1.9.1",
+    "unplugin-vue-macros": "^2.4.14",
     "vite": "^4.1.4",
     "vite-plugin-inspect": "^0.7.15",
     "vite-plugin-pages": "^0.28.0",
